@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function Netflix(props) {
+export default function Header(props) {
     
 
     return (
