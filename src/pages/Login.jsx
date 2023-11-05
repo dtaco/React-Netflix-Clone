@@ -60,7 +60,7 @@ export default function Login(props) {
                     values={formValues.password}
                     onChange={(evt) => handleChange(evt)}
                 />
-                <button onChange={handleLogIn}>Log In</button>
+                <button onClick={handleLogIn}>Log In</button>
                 </div>
             </div>
         </div>
